@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cyna
 - 👀 I’m interested in C++ programming.
-- 🌱 I’m currently learning python
 
 
 <!---
